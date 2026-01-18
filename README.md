@@ -87,7 +87,7 @@ JavaScript • TypeScript • Angular • Ionic • Express.js • PostgreSQL
 
 ## 📫 Let’s Connect
 - 💼 LinkedIn: [linkedin.com/in/syed-hussaini-139aa7141](https://linkedin.com/in/syed-hussaini-139aa7141)
-- 💻 GitHub: [github.com/techfreaksyed](https://github.com/techfreaksyed)
+- 💻 GitHub: [github.com/techfreaksyed]([https://github.com/techfreaksyed](https://github.com/syed25041996-afk))
 - ✉️ Email: syed25041996@gmail.com
 
 ---
